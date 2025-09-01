@@ -1,0 +1,16 @@
+# Vivado junk files and build folders
+*.jou
+*.log
+*.str
+*.zip
+*.xml
+*.html
+*.wdb
+
+# Project build folders
+*.runs/
+*.cache/
+*.sim/
+*.Xil/
+*.ip_user_files/
+*.hw/
